@@ -26,4 +26,4 @@
 ### 📫 Connect With Me  
 📧 rishithabompally@gmail.com  
 🌐 [Portfolio](https://rishithabompally.github.io/interintelligence-portfolio/)  
-💼 [LinkedIn](www.linkedin.com/in/rishithabompally)
+💼 [LinkedIn](https://www.linkedin.com/in/rishitha-bompally-a1b933344/)
