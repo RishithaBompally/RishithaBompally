@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Rishitha 👋</h2>
+<h2 align="center">Hi, I'm Rishitha Bompally👋</h2>
 
 🎓 Full Stack Developer & Tech Enthusiast  
 💡 Passionate about solving real-world problems with tech  
